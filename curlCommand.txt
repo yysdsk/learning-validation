@@ -1,0 +1,1 @@
+curl localhost:8080/ -v -H 'Content-Type:application/json' -d '{"foo":"AAAAA","bar":"にょ","baz":12345,"qux":1}'
